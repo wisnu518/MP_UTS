@@ -1,0 +1,2 @@
+id/wisnu/Uts_18090081/BuildConfig.java
+ id.wisnu.Uts_18090081.BuildConfig
